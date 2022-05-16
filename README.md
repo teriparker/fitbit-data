@@ -1,2 +1,2 @@
 # fitbit-data
-Using my Fitbit data, I will determine which characteristics improves my sleep score
+In this project, I will be analyzing my Fitbit data to determine which characteristics lead to a better sleep score.
